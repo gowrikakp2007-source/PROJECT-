@@ -1,0 +1,8 @@
+PROJECT/
+│── app.py
+│── requirements.txt
+│── Procfile
+│── runtime.txt
+│── README.md
+│── static/
+│── templates/
